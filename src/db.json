@@ -1,0 +1,69 @@
+{
+  "menu": [
+    {
+      "title": "Cesar salad",
+      "price": 12,
+      "url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+      "category": "salads",
+      "icon": "icons/salads.png",
+      "id": 1
+    },
+    {
+      "title": "Pizza Margherita",
+      "price": 10,
+      "url": "https://km-doma.ru/assets/gallery_thumbnails/31/319484a4bb725e4eacab62c7f0c7f1ed.jpg",
+      "category": "pizza",
+      "icon": "icons/pizza.png",
+      "id": 2
+    },
+    {
+      "title": "Pizza Napoletana",
+      "price": 13,
+      "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+      "category": "pizza",
+      "icon": "icons/pizza.png",
+      "id": 3
+    },
+    {
+      "title": "Greece salad",
+      "price": 8,
+      "url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
+      "category": "salads",
+      "icon": "icons/salads.png",
+      "id": 4
+    },
+    {
+      "title": "Cowboy Steak",
+      "price": 25,
+      "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+      "category": "meat",
+      "icon": "icons/meat.png",
+      "id": 5
+    },
+    {
+      "title": "Minion Steak",
+      "price": 30,
+      "url": "https://image.shutterstock.com/image-photo/grilled-beef-steak-minion-spinach-260nw-791564740.jpg",
+      "category": "meat",
+      "icon": "icons/meat.png",
+      "id": 6
+    },
+    {
+      "title": "Ramen",
+      "price": 10,
+      "url": "https://the-challenger.ru/wp-content/uploads/2018/05/shutterstock_379968754-800x577.jpg",
+      "category": "soup",
+      "icon": "icons/soup.png",
+      "id": 7
+    },
+    {
+      "title": "Tom Yum",
+      "price": 8,
+      "url": "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2021/03/Tom-Yum-07-mini.jpg?fit=1000%2C667&ssl=1",
+      "category": "soup",
+      "icon": "icons/soup.png",
+      "id": 8
+    }
+  ],
+  "orders": []
+}
