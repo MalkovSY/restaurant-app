@@ -1,4 +1,4 @@
-Приложение на React в связке с Redux для теста redux 
+Приложение на React в связке с Redux
 
 # Getting Started with Create React App
 
